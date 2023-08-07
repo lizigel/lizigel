@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Academic Essays</title>
+</head>
+<body>
+    <header>
+        <h1>Academic Essays</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="nonacademic.html">Non-Academic Essays</a></li>
+                <li><a href="aboutme.html">About Me</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <p>Here you will find my academic essays.</p>
+    </main>
+    <footer>
+        <p>&copy; 2023 My Personal Website</p>
+    </footer>
+</body>
+</html>
